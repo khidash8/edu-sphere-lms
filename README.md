@@ -8,6 +8,9 @@ A modern, full-featured Learning Management System (LMS) built with Next.js 15, 
 
 Deployed on Vercel with NeonDB (Serverless Postgres)
 
+## Repository Info
+This is the public release of a project originally developed in a private repository. The commit messages and development history from the private repository are not preserved in this public version.
+
 ## ✨ Current Features
 
 ### 🎓 For Students
@@ -188,8 +191,8 @@ Deployed on Vercel with NeonDB (Serverless Postgres)
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/khidash8/jan-marshal-yt-lms.git
-   cd jan-marshal-yt-lms
+   git clone https://github.com/khidash8/edu-sphere-lms.git
+   cd edu-sphere-lms
    ```
 
 2. **Install dependencies**:
